@@ -1,0 +1,6 @@
+2024-10-17 00:20:48,368 - INFO - Starting test for product: laptop
+2024-10-17 00:21:05,799 - INFO - Product laptop exists. Adding to cart.
+2024-10-17 00:21:07,041 - INFO - Product laptop added to the cart successfully.
+2024-10-17 00:38:54,968 - INFO - Starting test for product: laptop
+2024-10-17 00:39:07,398 - INFO - Product laptop exists. Adding to cart.
+2024-10-17 00:39:14,644 - INFO - Product laptop added to the cart successfully.

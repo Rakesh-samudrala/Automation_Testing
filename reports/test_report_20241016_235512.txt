@@ -1,0 +1,4 @@
+Test Name: test_search_product[laptop-True]
+Status: Passed
+Screenshot: screenshots\test_search_product[laptop-True].png
+
